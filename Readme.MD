@@ -1,0 +1,1 @@
+This repository contains source code to a 2d Pokemon console game. OOP principles such as inheritance, polymorphism, abstract class, and design patterns such as decorator, and singleton are used to implement this game.
